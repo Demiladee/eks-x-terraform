@@ -1,1 +1,1 @@
-# eks-x-terraform
+# Built EKS cluster using Terraform and deployed Artifactory on the cluster using nginx ingress controller, ebscsi driver and network load balancer
